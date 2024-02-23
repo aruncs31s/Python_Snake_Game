@@ -2,7 +2,6 @@ import random
 
 import pygame
 
-
 pygame.init()
 
 # Setting Up The Display
