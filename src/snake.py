@@ -5,7 +5,7 @@
 import random
 import pygame
 
-# from snake_temp_5 import WINDOW_HEIGHT, WINDOW_WIDTH
+
 
 pygame.init()
 
