@@ -6,14 +6,8 @@ Python Snake Game for Tinkerhub GCEK Event Mingleton Tuple 2.0
 
 - [Python](https://www.python.org/downloads/windows/)
 - [pip](https://pip.pypa.io/en/stable/installation/)
-Note- *Pip is automatically installed if you are using python downloaded from python.org"
+Note- *Pip is automatically installed if you are using python downloaded from python.org*
 
-"
- - Python Modules
-```
-pygame 
-random
-```
 ### Usage
 
 - **Windows**
