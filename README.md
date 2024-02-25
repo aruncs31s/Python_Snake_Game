@@ -29,9 +29,9 @@ python src/snake.py
 
 ```
 
-- **Linus**
-
-- **Debian**
+- **Linux**
+ 
+ 1. **Debian**
 ```bash
 sudo apt install python python-pip
 sudo apt install python-virtualenv
@@ -51,7 +51,7 @@ python src/snake.py
 ```
 
 
-- **Arch Linux**
+ 2. **Arch Linux**
 
 ```bash
 sudo pacman -S python python-pip
